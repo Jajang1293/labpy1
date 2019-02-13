@@ -33,7 +33,7 @@
 
 * **Kondisi Ketiga**
 
-![GitHub Logo](Kondisi2.PNG)
+![GitHub Logo](Kondisi3.PNG)
 
 
 
