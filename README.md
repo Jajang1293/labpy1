@@ -1,5 +1,3 @@
-#labpy1
-
 # Program Python: Menentukan Bilangan Terbesar Dari 3 Buah Bilangan
 
 ## Algoritma
@@ -26,10 +24,15 @@
 ## Hasil Running Program
 
 * **Kondisi Pertama**
+
 ![GitHub Logo](Kondisi1.PNG)
+
 * **Kondisi Kedua**
+
 ![GitHub Logo](Kondisi2.PNG)
+
 * **Kondisi Ketiga**
+
 ![GitHub Logo](Kondisi2.PNG)
 
 
